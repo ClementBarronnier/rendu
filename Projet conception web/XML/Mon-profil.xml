@@ -1,0 +1,33 @@
+<player><!--informations sur le joueur et ses clubs-->
+    <name>Karim Benzema</name>
+    <age>34</age>
+    <profession>footballeur</profession>
+</player>
+
+<Clubs>
+    <Club>Lyon
+        <date>2005-2009</date>
+    </club>
+    <Club>Real Madrid
+        <date>2009-aujourd'hui</date>
+    </club>
+</Clubs>
+
+
+<player>
+    <name>Alexandre Lacazette</name>
+    <age>31</age>
+    <profession>footballeur</profession>
+</player>
+
+<Clubs>
+    <Club>Lyon
+        <date>2010-2017</date>
+    </club>
+    <Club>Arsenal
+        <date>2017-2022</date>
+    </club>
+    <club>Lyon</club>
+        <date>2022-aujourd'hui</date>
+    <club>    
+</Clubs>

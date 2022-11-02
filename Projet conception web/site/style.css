@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    color: aliceblue;
+}
+ .page{    margin:auto;
+    background-color: rgb(0, 0, 0);
+}
+
+.entete{
+    background-image: url(../css/assets/img/);
+    height: 300px;    background-size: cover;    padding-top: 3em;    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',
+sans-serif 00px;
+    font-size: 200%;}
+#titre{
+    margin-left: 40px;
+}.colonne_menu{   width: 100%;
+   height: 100px;
+    background-color: rgb(0, 0, 0) ;
+    display: flex;
+}
+.colonne_contenu {    background-image: url(fond\ etoile\ 2.jpg);
+}
+.pieddepage{
+    height:50px;
+    background-color: lightgray;
+}
+.menu{
+    display: flex;
+   margin-top: 30px;
+   margin-bottom: 10px;}
+.para1{
+margin-right: 200px;
+margin-left: 50px;
+margin-top: 160px;
+font-size: 25px;}
+.acceuil{
+    margin-left: 3em;}
+a{
+    margin-right: 6em;
+    font-size: large;
+    background-color: rgba(28, 26, 28, 0.192) ;
+    border: 3px blue solid;
+    padding: 20px;
+color: antiquewhite;
+    border-radius: 25%;}
+a:hover{
+    background-color: rgba(21, 75, 129, 0.758);
+}
+#align{
+    display: flex;}
+.para2{
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 25px;
+}
